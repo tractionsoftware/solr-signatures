@@ -11,7 +11,7 @@
   <name>Traction Software Solr Document Signatures</name>
   <inceptionYear>2024</inceptionYear>
   <description>
-
+    SignatureUpdateProcessorFactory implementations that apply signatures specific for Traction TeamPage's Solr search integration.
   </description>
   <url>https://tractionsoftware.com/</url>
 
